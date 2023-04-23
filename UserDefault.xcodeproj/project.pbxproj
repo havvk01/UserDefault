@@ -13,6 +13,7 @@
 		0BF8AA0129F5730000FDA609 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0BF8A9FF29F5730000FDA609 /* Main.storyboard */; };
 		0BF8AA0329F5730100FDA609 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0BF8AA0229F5730100FDA609 /* Assets.xcassets */; };
 		0BF8AA0629F5730100FDA609 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0BF8AA0429F5730100FDA609 /* LaunchScreen.storyboard */; };
+		0BF8AA0E29F5735600FDA609 /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BF8AA0D29F5735600FDA609 /* StorageManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0BF8AA0229F5730100FDA609 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0BF8AA0529F5730100FDA609 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0BF8AA0729F5730100FDA609 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0BF8AA0D29F5735600FDA609 /* StorageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				0BF8A9F929F5730000FDA609 /* AppDelegate.swift */,
 				0BF8A9FB29F5730000FDA609 /* SceneDelegate.swift */,
 				0BF8A9FD29F5730000FDA609 /* ViewController.swift */,
+				0BF8AA0D29F5735600FDA609 /* StorageManager.swift */,
 				0BF8A9FF29F5730000FDA609 /* Main.storyboard */,
 				0BF8AA0229F5730100FDA609 /* Assets.xcassets */,
 				0BF8AA0429F5730100FDA609 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				0BF8A9FE29F5730000FDA609 /* ViewController.swift in Sources */,
 				0BF8A9FA29F5730000FDA609 /* AppDelegate.swift in Sources */,
 				0BF8A9FC29F5730000FDA609 /* SceneDelegate.swift in Sources */,
+				0BF8AA0E29F5735600FDA609 /* StorageManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
